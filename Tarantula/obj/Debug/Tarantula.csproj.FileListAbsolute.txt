@@ -1,0 +1,13 @@
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\bin\Debug\Tarantula.exe.config
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\bin\Debug\Tarantula.exe
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\bin\Debug\Tarantula.pdb
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\obj\Debug\Tarantula.csproj.ResolveComReference.cache
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\obj\Debug\Tarantula.FrmAbout.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\obj\Debug\Tarantula.FrmMain.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\obj\Debug\Tarantula.FrmOptions.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\obj\Debug\Tarantula.FrmSplash.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\obj\Debug\Tarantula.Properties.Resources.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\obj\Debug\Tarantula.csproj.GenerateResource.Cache
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\obj\Debug\Tarantula.exe
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\obj\Debug\Tarantula.pdb
+C:\Users\Ramin\documents\visual studio 2012\Projects\Tarantula\Tarantula\obj\Debug\Tarantula.csprojResolveAssemblyReference.cache
